@@ -1,0 +1,17 @@
+export const errosMessages = {
+  not_found: 'User not found',
+  invalid_credentials: 'Invalid credentials',
+  unauthorized: 'Unauthorized access',
+  forbidden: 'Forbidden access',
+  server_error: 'Internal server error',
+  bad_request: 'Bad request',
+  conflict: 'Conflict occurred',
+  unprocessable_entity: 'Unprocessable entity',
+  too_many_requests: 'Too many requests, please try again later',
+  service_unavailable: 'Service unavailable, please try again later',
+  gateway_timeout: 'Gateway timeout, please try again later',
+  custom_error: 'An error occurred, please try again later',    
+  invalid_input: 'Invalid input provided',
+  resource_not_found: 'Requested resource not found',
+  operation_failed: 'Operation failed, please try again',
+  access_denied: 'Access denied',}
